@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "resolution_week4_bacasss"
+version = "0.0.1"
+dependencies = [ "fastapi[standard]", "slowapi" ] # You may need to add more here if you are using redis or something similar
+
+[project.scripts]
+inventory = "resolution_week4_bacasss.main:main"
