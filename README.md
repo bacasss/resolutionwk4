@@ -60,7 +60,7 @@ Changes the quantity of an item that is already in the inventory list after the 
 
 
 /items/lowstock (GET):
-List all the items that currently are low in stock with reference with the user defined threshold per item. No rate limit.
+List all the items that currently are low in stock with reference with the user defined threshold per item, after the API key is entered. No rate limit.
 <img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/68e82072-c5d7-4529-94ef-e57df3b085f4" />
 
 
