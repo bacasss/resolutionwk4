@@ -28,7 +28,7 @@ Background logging of inventory changes/actions
 <img width="1919" height="1199" alt="Screenshot 2026-04-16 032925" src="https://github.com/user-attachments/assets/b064455c-5eec-4abf-bc4a-128277453c0b" />
 
 
-
+TO RUN (WEB VERSION): https://resolutionwk4.bacasss.hackclub.app/docs
 HOW TO RUN:
 testpypi link: https://test.pypi.org/project/resolution-week4-bacasss/0.0.1/
 1. open command prompt
